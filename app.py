@@ -90,7 +90,7 @@ if app_mode =='About App':
     )
 elif app_mode == 'Sign Language to Text':
     st.title('Sign Language to Text')
-    st.set_option('deprecation.showfileUploaderEncoding', False)
+    #st.set_option('deprecation.showfileUploaderEncoding', False)
 
     use_webcam = st.sidebar.button('Use Webcam')
     record = st.sidebar.checkbox("Record Video")
