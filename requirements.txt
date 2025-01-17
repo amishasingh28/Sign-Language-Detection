@@ -1,8 +1,7 @@
-
-opencv-python
-temp
 streamlit
-mediapipe
+opencv-python
 numpy
-Pillow
-
+pandas
+matplotlib
+speechrecognition
+# Add other dependencies if any
